@@ -6,7 +6,7 @@ BMI Dataset
 YASIN ERSEVER
 # Publisher: 
 Kaggle
-#Source:
+# Source:
 Kaggle 
 -https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 
